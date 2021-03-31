@@ -51,4 +51,4 @@ The specified parts are just the ones I used, and can be substituted as needed -
 | U3 | 74HCT138 | 1 | [TI SN74HCT138N](https://www.mouser.com/ProductDetail/SN74HCT138N) |
 | U4 | 74HCT174 | 1 | [TI CD74HCT174E](https://www.mouser.com/ProductDetail/CD74HCT174E) |
 | U5 | 74HCT32 | 1 | [TI SN74HCT32N](https://www.mouser.com/ProductDetail/SN74HCT32N) |
-| U6 | 74HCT253 | 1 | [TI CD74HCT253E](https://www.mouser.com/ProductDetail/CD74HCT253E |
+| U6 | 74HCT253 | 1 | [TI CD74HCT253E](https://www.mouser.com/ProductDetail/CD74HCT253E) |
