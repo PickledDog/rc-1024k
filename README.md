@@ -1,0 +1,2 @@
+# rc-1024k
+ 512K+512K RAM/ROM card for RC2014
