@@ -1,6 +1,6 @@
 # rc-1024k
  512K+512K RAM/ROM card for RC2014
-**NOT YET TESTED - BUILD AT YOUR OWN RISK!**
+![Assembled PD109](/img/assembled.jpg)
 
 ## Overview
 This RC2014-compatible board provides RAM and flash ROM, software-pageable in 32k pages. 16 ROM and 16 RAM pages may be paged into the lower 32k of Z80 memory. This paging scheme is compatible with Wayne Warthen's [RomWBW](https://github.com/wwarthen/RomWBW).
